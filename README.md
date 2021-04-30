@@ -60,6 +60,6 @@ $ yarn start
 
 ## License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
+This project is under license from MIT. For more details, see the [LICENSE](https://github.com/nilbersilva/dtmoney/blob/main/LICENSE) file.
 
 <a href="#top">Back to top</a>
