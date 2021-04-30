@@ -10,12 +10,12 @@ This applications is an example of a simple personal finance manager.
 ## Screenshots
 
 <div align="center"> 
-  <img src="./git_assets/screen1.jpg" />
+  <img src="./git_assets/Screen1.jpg" />
 </div>
 <br/>
 <br/>
 <div align="center"> 
-<img src="./git_assets/screen2.jpg" />
+<img src="./git_assets/Screen2.jpg" />
 </div>
 
 ## Features
