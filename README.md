@@ -60,6 +60,6 @@ $ yarn start
 
 ## License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 <a href="#top">Back to top</a>
